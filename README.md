@@ -26,6 +26,10 @@ Look at the status bar at the top of the screen to know whose move it is, whethe
 ![WhatsApp Image 2023-05-31 at 9 03 20 PM (1)](https://github.com/Rasesh-Srivastava/Chess/assets/116264587/185eca59-28ba-4c8c-994a-5ec0eca697b1)
 ![WhatsApp Image 2023-05-31 at 9 03 20 PM](https://github.com/Rasesh-Srivastava/Chess/assets/116264587/55a2e110-025d-47c9-885c-d02ccb5ebded)
 
+## Tech Stack
+
+- Flutter
+- External Package Used: flutter_chess_board
 
 ## Download APK File
 
@@ -33,4 +37,4 @@ Look at the status bar at the top of the screen to know whose move it is, whethe
 
 ## FeedBack
 
-If you have any suggestions or feedback, mail me at rasesh220303@gmail.com
+If you have any suggestions or feedback, please reach out to me at rasesh220303@gmail.com
